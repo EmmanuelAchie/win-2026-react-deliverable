@@ -14,6 +14,8 @@ function App() {
         <div>
           <h1>Get started</h1>
           <br />
+          Name: Emmanuel Acheampong
+          <br />
           <h3>uniqname: emmanach</h3>
           <p>
             Hellow Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
